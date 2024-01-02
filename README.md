@@ -51,7 +51,8 @@ Instale FitCoachPro-App com pnpm
     
 ## Video-demo
 
-![Video-Youtube](https://youtu.be/8QzgtHWPNs8)
+[YouTube](https://youtu.be/8QzgtHWPNs8)
+
 
 
 ## Screenshots
