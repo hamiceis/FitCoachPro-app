@@ -51,5 +51,16 @@ Instale FitCoachPro-App com pnpm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Screenshots
+
+![App Screenshot](https://github.com/hamiceis/FitCoachPro-app/blob/main/.github/home.jpg)
+-----------------------------------------------
+![App Screenshot](https://github.com/hamiceis/FitCoachPro-app/blob/main/.github/login.jpg)
+-----------------------------------------------
+![App Screenshot](https://github.com/hamiceis/FitCoachPro-app/blob/main/.github/dash.jpg)
+-----------------------------------------------
+![App Screenshot](https://github.com/hamiceis/FitCoachPro-app/blob/main/.github/dash-student.jpg)
+
+
 
